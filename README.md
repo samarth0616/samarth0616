@@ -6,7 +6,7 @@ Email 👉 ✉️ msamarth886@gmail.com
 🔭 I’m currently working on: Arduino,ESP32,ESP8266,STM32 and other ARM CORTEX Designs
 🌱 I’m currently learning: Embeded Systems And  Cloud
 👯 Open To Work
-📫 How to reach me: msamarth886@gmail.com
+📫 How to reach me: msamarth886@gmail.com 
 😄 Pronouns: SAMARTH M
 ⚡ Fun fact: My Projects Usually Run In The 2nd Try Or The 20th
 ## 🌐 Socials:
